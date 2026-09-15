@@ -1,8 +1,8 @@
 # Hi, I'm Christian
 
-Backend developer focused on system integration and process automation.
+Full stack developer focused on system integration and process automation.
 
-I have experience with Python, FastAPI, Django, Java, Spring Boot, REST APIs, and Linux environments.
+I have experience with Terraform, Python, FastAPI, Django, Java, Spring Boot, REST APIs, and Linux environments.
 
 ## Technologies
 
@@ -35,6 +35,7 @@ I have experience with Python, FastAPI, Django, Java, Spring Boot, REST APIs, an
 - PostgreSQL
 - Git and GitHub
 - Scrum methodology
+- Terraform
 
 ---
 
@@ -62,6 +63,7 @@ Streamlit application for managing and organizing audiovisual content.
 
 ## Areas of Interest
 
+- DevOps
 - Django
 - API Integration with Python
 - AI-powered Applications
