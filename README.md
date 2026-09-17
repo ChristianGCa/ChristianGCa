@@ -40,6 +40,7 @@ Also exploring AI-assisted development workflows (Codex, LangChain) and applying
 Real-time markdown editor that runs entirely in the browser, no backend, no accounts, no analytics. Built with React 18, TypeScript and Vite, styled with Tailwind CSS, and covered by tests with Vitest and React Testing Library.
 
 Live demo: https://pure-md.vercel.app
+
 Repo: [View Project](https://github.com/ChristianGCa/pure-md)
 
 ### GLPI <-> Taiga Middleware
