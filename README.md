@@ -1,6 +1,6 @@
 # Hi, I'm Christian 👋
 
-Backend developer with hands-on experience in system integration and process automation — currently expanding into full-stack development.
+Backend developer with hands-on experience in system integration and process automation, currently expanding into full-stack development.
 
 I build APIs and backend systems with Python and Java, and I'm actively developing front-end skills with React, TypeScript and the npm ecosystem.
 
@@ -35,9 +35,9 @@ Also exploring AI-assisted development workflows (Codex, LangChain) and applying
 
 ## Featured Projects
 
-### Pure MD — Client-side Markdown Editor
+### Pure MD - Client-side Markdown Editor
 
-Real-time markdown editor that runs entirely in the browser — no backend, no accounts, no analytics. Built with React 18, TypeScript and Vite, styled with Tailwind CSS, and covered by tests with Vitest and React Testing Library.
+Real-time markdown editor that runs entirely in the browser, no backend, no accounts, no analytics. Built with React 18, TypeScript and Vite, styled with Tailwind CSS, and covered by tests with Vitest and React Testing Library.
 
 Live demo: https://pure-md.vercel.app
 Repo: [View Project](https://github.com/ChristianGCa/pure-md)
