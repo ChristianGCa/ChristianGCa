@@ -1,14 +1,12 @@
-# Hi, I'm Christian
+# Hi, I'm Christian 👋
 
-Full stack developer focused on system integration and process automation.
+Backend developer with hands-on experience in system integration and process automation — currently expanding into full-stack development.
 
-I have experience with Terraform, Python, FastAPI, Django, Java, Spring Boot, REST APIs, and Linux environments.
+I build APIs and backend systems with Python and Java, and I'm actively developing front-end skills with React, TypeScript and the npm ecosystem.
 
-## Technologies
+## Core Technologies
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" />
@@ -17,30 +15,32 @@ I have experience with Terraform, Python, FastAPI, Django, Java, Spring Boot, RE
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" />
 </div>
 
----
+## Front-end
 
-## Technical Experience
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" />
+</div>
 
-- Django and FastAPI
-- Java and Spring Boot
-- Designing and consuming REST APIs
-- System integration
-- LangChain
-- Linux administration
-- Docker
-- AWS application deployment
-- PostgreSQL
-- Git and GitHub
-- Scrum methodology
-- Terraform
+Also exploring AI-assisted development workflows (Codex, LangChain) and applying them to real projects.
 
 ---
 
 ## Featured Projects
+
+### Pure MD — Client-side Markdown Editor
+
+Real-time markdown editor that runs entirely in the browser — no backend, no accounts, no analytics. Built with React 18, TypeScript and Vite, styled with Tailwind CSS, and covered by tests with Vitest and React Testing Library.
+
+Live demo: https://pure-md.vercel.app
+Repo: [View Project](https://github.com/ChristianGCa/pure-md)
 
 ### GLPI <-> Taiga Middleware
 
@@ -50,13 +50,13 @@ Integration between GLPI and Taiga using Java and Spring Boot to automate workfl
 
 ### Inventory Management System
 
-Application for inventory control, stock movements, and product management.
+Application for inventory control, stock movements, and product management, built with Python.
 
 -> [View Project](https://github.com/ChristianGCa/sistema_gestao_estoque)
 
 ### Movies & TV Shows Catalog
 
-Streamlit application for managing and organizing audiovisual content.
+Small Streamlit app for organizing audiovisual content, consuming an external API.
 
 -> [View Project](https://github.com/ChristianGCa/flix_app)
 
@@ -64,14 +64,10 @@ Streamlit application for managing and organizing audiovisual content.
 
 ## Areas of Interest
 
-- DevOps
-- Django
-- API Integration with Python
+- Full-stack development
+- API Architecture & Integration
+- DevOps & Cloud Computing
 - AI-powered Applications
-- Flutter
-- Cloud Computing
-- API Architecture
-- Design Patterns
 
 ---
 
