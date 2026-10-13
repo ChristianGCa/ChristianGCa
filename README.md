@@ -1,74 +1,95 @@
 # Hi, I'm Christian 👋
 
-Backend developer with hands-on experience in system integration and process automation, currently expanding into full-stack development.
+Backend developer with hands-on experience in system integration and process automation, now building full-stack applications end to end.
 
-I build APIs and backend systems with Python and Java, and I'm actively developing front-end skills with React, TypeScript and the npm ecosystem.
+I build APIs and backend systems with **Python** and **Java**, and production-ready front-ends with **React** and **TypeScript**.
 
-## Core Technologies
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
-</div>
+## Tech Stack
 
-## Front-end
+**Backend & Data**
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="Redis" />
+</p>
 
-Also exploring AI-assisted development workflows (Codex, LangChain) and applying them to real projects.
+**Front-end & Testing**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="45" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="45" alt="Playwright" />
+</p>
+
+**DevOps & Cloud**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" alt="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45" alt="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+</p>
+
+Also applying AI-assisted development workflows (Codex, LangChain) to real projects.
 
 ---
 
 ## Featured Projects
 
-### Pure MD - Client-side Markdown Editor
+### 🌦️ NossoClima: Weather Forecast
 
-Real-time markdown editor that runs entirely in the browser, no backend, no accounts, no analytics. Built with React 18, TypeScript and Vite, styled with Tailwind CSS, and covered by tests with Vitest and React Testing Library.
+A fast, accessible weather forecast site in Brazilian Portuguese, built as a personal project and taken to production standards.
 
-Live demo: https://pure-md.vercel.app
+- **Stack:** React, Fastify, Redis, deployed on Vercel
+- **Production practices:** CI pipeline, Redis caching, rate limiting, and documented architecture
+- **Quality:** end-to-end tests with Playwright and a mobile performance budget (LCP ≤ 2.5 s)
+- **Privacy:** designed with LGPD compliance in mind
+- **UX details:** the background adapts to the current weather in the searched city, and the browser remembers the last city, so the forecast is already up to date when you come back
 
-Repo: [View Project](https://github.com/ChristianGCa/pure-md)
+[Live demo](https://nossoclima.vercel.app) · [Repository](https://github.com/ChristianGCa/nosso-clima)
 
-### GLPI <-> Taiga Middleware
+### 📝 Pure MD: Client-side Markdown Editor
 
-Integration between GLPI and Taiga using Java and Spring Boot to automate workflows and business processes.
+Real-time markdown editor that runs entirely in the browser: no backend, no accounts, no analytics.
 
--> [View Project](https://github.com/ChristianGCa/Desk2Agile)
+- **Stack:** React 18, TypeScript, Vite, Tailwind CSS
+- **Testing:** Vitest and React Testing Library
 
-### Inventory Management System
+[Live demo](https://pure-md.vercel.app) · [Repository](https://github.com/ChristianGCa/pure-md)
 
-Application for inventory control, stock movements, and product management, built with Python.
+### 🔄 Desk2Agile: GLPI ↔ Taiga Middleware
 
--> [View Project](https://github.com/ChristianGCa/sistema_gestao_estoque)
+Integration middleware connecting GLPI (IT service desk) and Taiga (agile project management) to automate workflows and business processes.
 
-### Movies & TV Shows Catalog
+- **Stack:** Java, Spring Boot
 
-Small Streamlit app for organizing audiovisual content, consuming an external API.
+[Repository](https://github.com/ChristianGCa/Desk2Agile)
 
--> [View Project](https://github.com/ChristianGCa/flix_app)
+### Other projects
+
+- [**Inventory Management System**](https://github.com/ChristianGCa/sistema_gestao_estoque): inventory control, stock movements and product management in Python
+- [**Flix App**](https://github.com/ChristianGCa/flix_app): Streamlit app for organizing movies and TV shows, consuming an external API
 
 ---
 
 ## Areas of Interest
 
 - Full-stack development
-- API Architecture & Integration
-- DevOps & Cloud Computing
-- AI-powered Applications
+- API architecture & system integration
+- DevOps & cloud computing
+- AI-powered applications
 
 ---
 
@@ -76,9 +97,9 @@ Small Streamlit app for organizing audiovisual content, consuming an external AP
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christian-gabriel-candeloni/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:candelonichristian@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
