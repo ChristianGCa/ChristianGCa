@@ -4,6 +4,8 @@ Backend developer with hands-on experience in system integration and process aut
 
 I build APIs and backend systems with **Python** and **Java**, and production-ready front-ends with **React** and **TypeScript**.
 
+📁 [My portfolio](https://christiangca.github.io/)
+
 ---
 
 ## Tech Stack
