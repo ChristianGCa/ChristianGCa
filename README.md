@@ -37,20 +37,20 @@ I build APIs and backend systems with **Python** and **Java**, and production-re
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="45" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" alt="Terraform" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45" alt="Vercel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
 </p>
 
-Also applying AI-assisted development workflows (Codex, LangChain) to real projects.
+Also applying AI-assisted development workflows.
 
 ---
 
 ## Featured Projects
 
-### 🌦️ NossoClima: Weather Forecast
+### NossoClima: Weather Forecast
 
 A fast, accessible weather forecast site in Brazilian Portuguese, built as a personal project and taken to production standards.
 
@@ -62,7 +62,7 @@ A fast, accessible weather forecast site in Brazilian Portuguese, built as a per
 
 [Live demo](https://nossoclima.vercel.app) · [Repository](https://github.com/ChristianGCa/nosso-clima)
 
-### 📝 Pure MD: Client-side Markdown Editor
+### Pure MD: Client-side Markdown Editor
 
 Real-time markdown editor that runs entirely in the browser: no backend, no accounts, no analytics.
 
@@ -71,7 +71,7 @@ Real-time markdown editor that runs entirely in the browser: no backend, no acco
 
 [Live demo](https://pure-md.vercel.app) · [Repository](https://github.com/ChristianGCa/pure-md)
 
-### 🔄 Desk2Agile: GLPI ↔ Taiga Middleware
+### Desk2Agile: GLPI ↔ Taiga Middleware
 
 Integration middleware connecting GLPI (IT service desk) and Taiga (agile project management) to automate workflows and business processes.
 
